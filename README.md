@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-![resturant](https://github.com/naship-k-acharya/restaurant/assets/106302800/194951b1-2db4-433d-b040-5bd506fdbf30)
+![resturant](https://github.com/naship-k-acharya/restaurant/assets/106302800/b92cc880-f73a-4882-9e45-a78d322e924e)
 
 ## License
 
